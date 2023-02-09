@@ -2,24 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b002e5d-30d3-4c68-9d96-f4540ff70ac1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/walmart/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walmart/products/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walmart/products/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walmart/products/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walmart/products/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walmart/products/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walmart/products/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walmart/products/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walmart/walmart/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walmart/walmart/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walmart/walmart/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walmart/walmart/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walmart/walmart/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/walmart/products/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/walmart/products/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/products/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/products/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/walmart/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/walmart/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
